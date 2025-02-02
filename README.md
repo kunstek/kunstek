@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m not looking to collaborate on anything (for now).
-- 📫 My <a href="mailto:kunstek.zeljko@gmail.com">e-mail</a>.
+- 📫 kunstek.zeljko@gmail.com
 
 <!---
 kunstek/kunstek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
